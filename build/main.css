@@ -47398,42 +47398,6 @@ ion-app.app-root.disable-scroll ion-modal .ion-page {
   pointer-events: initial;
 }
 
-.text-primary {
-  color: #fff;
-}
-
-.text-secondary {
-  color: #fff;
-}
-
-.text-danger {
-  color: #fff;
-}
-
-.text-light {
-  color: #000;
-}
-
-.text-gray {
-  color: #fff;
-}
-
-.text-dark {
-  color: #fff;
-}
-
-.text-warning {
-  color: #fff;
-}
-
-.text-success {
-  color: #fff;
-}
-
-.text-info {
-  color: #fff;
-}
-
 [dir="ltr"] body, [dir="rtl"] body {
   padding-top: constant(safe-area-inset-top);
   padding-top: env(safe-area-inset-top);
