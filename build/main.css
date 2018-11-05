@@ -30715,7 +30715,7 @@ ion-spinner.spinner-paused svg {
   -ms-flex-pack: center;
   justify-content: center;
   border-top: 0.55px solid rgba(0, 0, 0, 0.3);
-  background: #626262;
+  background: #777373;
 }
 
 .tabs-ios[tabsPlacement=top] .tabbar {
@@ -31038,7 +31038,7 @@ ion-spinner.spinner-paused svg {
 }
 
 .tabs-md .tabbar {
-  background: #626262;
+  background: #777373;
 }
 
 .tabs-md .tab-button, .tabs-md ion-app.app-root .core-tabs-bar a.tab-slide, ion-app.app-root .core-tabs-bar .tabs-md a.tab-slide {
@@ -31408,7 +31408,7 @@ ion-spinner.spinner-paused svg {
 }
 
 .tabs-wp .tabbar {
-  background: #626262;
+  background: #777373;
 }
 
 .tabs-wp .tab-button, .tabs-wp ion-app.app-root .core-tabs-bar a.tab-slide, ion-app.app-root .core-tabs-bar .tabs-wp a.tab-slide {
@@ -45195,7 +45195,7 @@ ion-app.app-root addon-mod-wiki-index .wiki-toc {
 }
 
 ion-app.app-root addon-mod-wiki-index .wiki-toc-title {
-  color: #626262;
+  color: #777373;
   font-size: 1.1em;
   font-variant: small-caps;
   text-align: center;
@@ -45379,7 +45379,7 @@ addon-qtype-ddimageortext .qtext {
 }
 
 addon-qtype-ddimageortext div.droparea img {
-  border: 1px solid #626262;
+  border: 1px solid #777373;
   max-width: 100%;
 }
 
@@ -45394,7 +45394,7 @@ addon-qtype-ddimageortext .draghome img {
 }
 
 addon-qtype-ddimageortext div.draghome {
-  border: 1px solid #626262;
+  border: 1px solid #777373;
   cursor: pointer;
   background-color: #B0C4DE;
   display: inline-block;
@@ -45436,7 +45436,7 @@ addon-qtype-ddimageortext .group8 {
 }
 
 addon-qtype-ddimageortext .drag {
-  border: 1px solid #626262;
+  border: 1px solid #777373;
   cursor: pointer;
   z-index: 2;
 }
@@ -45471,7 +45471,7 @@ addon-qtype-ddimageortext .dropbackground {
 }
 
 addon-qtype-ddimageortext .dropzone {
-  border: 1px solid #626262;
+  border: 1px solid #777373;
   position: absolute;
   z-index: 1;
   cursor: pointer;
@@ -45487,8 +45487,8 @@ addon-qtype-ddimageortext div.dragitems div.draghome, addon-qtype-ddimageortext 
 
 addon-qtype-ddimageortext .drag.beingdragged {
   z-index: 3;
-  -webkit-box-shadow: 3px 3px 4px #626262;
-  box-shadow: 3px 3px 4px #626262;
+  -webkit-box-shadow: 3px 3px 4px #777373;
+  box-shadow: 3px 3px 4px #777373;
 }
 
 addon-qtype-ddmarker .qtext {
@@ -45497,7 +45497,7 @@ addon-qtype-ddmarker .qtext {
 }
 
 addon-qtype-ddmarker div.droparea img {
-  border: 1px solid #626262;
+  border: 1px solid #777373;
   max-width: 100%;
 }
 
@@ -45521,8 +45521,8 @@ addon-qtype-ddmarker .dropzones svg {
 
 addon-qtype-ddmarker .dragitem.beingdragged .markertext {
   z-index: 5;
-  -webkit-box-shadow: 3px 3px 4px #626262;
-  box-shadow: 3px 3px 4px #626262;
+  -webkit-box-shadow: 3px 3px 4px #777373;
+  box-shadow: 3px 3px 4px #777373;
 }
 
 addon-qtype-ddmarker .dragitems .draghome {
@@ -45558,7 +45558,7 @@ addon-qtype-ddmarker div.markertexts span.markertext {
   margin: 0 5px;
   z-index: 2;
   background-color: #ffffff;
-  border: 2px solid #626262;
+  border: 2px solid #777373;
   padding: 5px;
   display: inline-block;
   zoom: 1;
@@ -45615,7 +45615,7 @@ addon-qtype-ddwtos .answertext {
 addon-qtype-ddwtos .drop {
   display: inline-block;
   text-align: center;
-  border: 1px solid #626262;
+  border: 1px solid #777373;
   margin-bottom: 2px;
   border-radius: 5px;
 }
@@ -45628,7 +45628,7 @@ addon-qtype-ddwtos .draghome, addon-qtype-ddwtos .drag {
 }
 
 addon-qtype-ddwtos .draghome, addon-qtype-ddwtos .drag.unplaced {
-  border: 1px solid #626262;
+  border: 1px solid #777373;
   border-radius: 5px;
 }
 
@@ -45643,8 +45643,8 @@ addon-qtype-ddwtos .drag {
 
 addon-qtype-ddwtos .drag.selected {
   z-index: 3;
-  -webkit-box-shadow: 3px 3px 4px #626262;
-  box-shadow: 3px 3px 4px #626262;
+  -webkit-box-shadow: 3px 3px 4px #777373;
+  box-shadow: 3px 3px 4px #777373;
 }
 
 addon-qtype-ddwtos .drop.selected {
@@ -45897,7 +45897,7 @@ ion-app.app-root .core-oauth-icon img, ion-app.app-root .item.core-oauth-icon im
 }
 
 ion-app.app-root .core-oauth-icon .label, ion-app.app-root .item.core-oauth-icon .label, ion-app.app-root .list .item.core-oauth-icon .label {
-  color: #626262;
+  color: #777373;
 }
 
 [dir="ltr"] ion-app.app-root .core-oauth-icon .label, [dir="ltr"] ion-app.app-root .item.core-oauth-icon .label, [dir="ltr"] ion-app.app-root .list .item.core-oauth-icon .label {
@@ -46021,7 +46021,7 @@ ion-app.app-root core-format-text[ng-reflect-max-height].core-text-formatted:not
 
 ion-app.app-root core-format-text[maxHeight].core-text-formatted.core-shortened,
 ion-app.app-root core-format-text[ng-reflect-max-height].core-text-formatted.core-shortened {
-  color: #626262;
+  color: #777373;
   overflow: hidden;
   min-height: 50px;
 }
@@ -49018,7 +49018,7 @@ ion-app.app-root core-progress-bar {
 ion-app.app-root core-progress-bar .core-progress-text {
   line-height: normal;
   font-size: 1.4rem;
-  color: #626262;
+  color: #777373;
   top: -6px;
   position: absolute;
 }
@@ -49210,7 +49210,7 @@ ion-app.app-root core-rich-text-editor .core-textarea textarea {
 }
 
 ion-app.app-root core-rich-text-editor div.core-rte-toolbar {
-  background: #626262;
+  background: #777373;
   text-align: center;
   -webkit-box-flex: 0;
   -webkit-flex-grow: 0;
@@ -49248,7 +49248,7 @@ ion-app.app-root core-rich-text-editor div.core-rte-toolbar .core-rte-buttons {
 }
 
 ion-app.app-root core-rich-text-editor div.core-rte-toolbar .core-rte-buttons button {
-  background: #626262;
+  background: #777373;
   color: #ffffff;
   font-size: 1.1em;
   height: 35px;
@@ -50654,7 +50654,7 @@ ion-app.app-root page-core-mainmenu-more .item-block.activated.item-wp {
 }
 
 ion-app.app-root page-core-mainmenu-more ion-icon {
-  color: #626262;
+  color: #777373;
 }
 
 ion-app.app-root page-core-mainmenu-more .item-divider.item-ios {
